@@ -1,0 +1,95 @@
+<div class=" login">
+
+<div class="user-login-5">
+  <div class="row bs-reset">
+      <div class="col-md-6 bs-reset mt-login-5-bsfix">
+          <div class="login-bg" style="background-image:url(../assets/pages/img/login/bg1.jpg)">
+              <img class="login-logo" src="../assets/pages/img/login/logo.png" /> </div>
+      </div>
+      <div class="col-md-6 login-container bs-reset mt-login-5-bsfix">
+          <div class="login-content">
+              <h1>FolhaCerta Admin Login</h1>
+              <p> Faça o o login com seu E-mail/Funcional e Senha. </p>
+              <form name="form" (ngSubmit)="login()" #f="ngForm" novalidate class="login-form" action="" >
+                  <div class="alert alert-danger display-hide">
+                      <button class="close" data-close="alert"></button>
+                      <span>Entre com o e-mail e senha. </span>
+                  </div>
+                  <div class="row">
+                      <div class="col-xs-6">
+                          <input class="form-control form-control-solid placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="E-mail" name="email" [(ngModel)]="model.email" #email="ngModel" required/> </div>
+                      <div class="col-xs-6">
+                          <input class="form-control form-control-solid placeholder-no-fix form-group" type="password" autocomplete="off" placeholder="Senha" name="senha" [(ngModel)]="model.senha" #senha="ngModel" required/> </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-sm-4">
+                          <div class="rem-password">
+                              <label class="rememberme mt-checkbox mt-checkbox-outline">
+                                  <input type="checkbox" name="remember" value="1" /> Lembre-me
+                                  <span></span>
+                              </label>
+                          </div>
+                      </div>
+                      <div class="col-sm-8 text-right">
+                          <div class="forgot-password">
+                              <a href="javascript:;" id="forget-password" class="forget-password">Esqueceu a senha?</a>
+                          </div>
+                          <button [disabled]="loading" class="btn green">Entrar</button>
+                      </div>
+                  </div>
+              </form>
+              <!-- BEGIN FORGOT PASSWORD FORM -->
+              <form class="forget-form" action="">
+                  <h3 class="font-green">Esqueceu a senha?</h3>
+                  <p> Entre seu e-mail abaixo para criar uma nova senha. </p>
+                  <div class="form-group">
+                      <input class="form-control placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" name="email" /> </div>
+                  <div class="form-actions">
+                      <button type="button" id="back-btn" class="btn green btn-outline">Voltar</button>
+                      <button type="submit" class="btn btn-success uppercase pull-right">Enviar</button>
+                  </div>
+              </form>
+              <!-- END FORGOT PASSWORD FORM -->
+          </div>
+          <div class="login-footer">
+              <div class="row bs-reset">
+                  <div class="col-xs-5 bs-reset">
+                      <ul class="login-social">
+                          <li>
+                              <a href="javascript:;">
+                                  <i class="icon-social-facebook"></i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="javascript:;">
+                                  <i class="icon-social-twitter"></i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="javascript:;">
+                                  <i class="icon-social-dribbble"></i>
+                              </a>
+                          </li>
+                      </ul>
+                  </div>
+                  <div class="col-xs-7 bs-reset">
+                      <div class="login-copyright text-right">
+                          <p>Copyright &copy; Muttuo 2018</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+</div>
+
+<script>
+  $(document).ready(function()
+  {
+      $('#clickmewow').click(function()
+      {
+          $('#radio1003').attr('checked', 'checked');
+      });
+  })
+</script>

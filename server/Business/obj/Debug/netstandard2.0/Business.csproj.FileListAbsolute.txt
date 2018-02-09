@@ -1,0 +1,42 @@
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/obj/Debug/netstandard2.0/Business.csproj.CoreCompileInputs.cache
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/obj/Debug/netstandard2.0/Business.AssemblyInfoInputs.cache
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/obj/Debug/netstandard2.0/Business.AssemblyInfo.cs
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/Business.deps.json
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/Business.dll
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/Business.pdb
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/obj/Debug/netstandard2.0/Business.dll
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/obj/Debug/netstandard2.0/Business.pdb
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/DataAccess.dll
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/Model.dll
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/DataAccess.pdb
+/Users/diegofernandes/Documents/Projects/FolhaCerta/Business/bin/Debug/netstandard2.0/Model.pdb
+/Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netstandard2.0/Business.deps.json
+/Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netstandard2.0/Business.dll
+/Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netstandard2.0/Business.pdb
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Business\obj\Debug\netstandard2.0\Business.pdb
+c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netstandard2.0\Business.deps.json
+c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netstandard2.0\Business.dll
+c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netstandard2.0\Business.pdb
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.csprojResolveAssemblyReference.cache
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.dll
+c:\Projetos\folhacerta-core\server\Business\obj\Debug\netstandard2.0\Business.pdb
