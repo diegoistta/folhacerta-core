@@ -9,13 +9,13 @@ export class AuthenticationService {
     constructor(private http: Http, private config: AppConfig) { }
 
     login(email: string, senha: string) {
-        return this.http.post(this.config.apiUrl + '/usuario/autenticacao', { email: email, senha: senha })
+        return this.http.post(this.config.apiUrl + '/api/login', { email: email, senha: senha })
             .map((response: Response) => {
                 // login successful if there's a jwt token in the response
                 const user = response.json();
-                if (user && user.token) {
+                if (user && user.data.token) {
                     // store user details and jwt token in local storage to keep user logged in between page refreshes
-                    localStorage.setItem('currentUser', JSON.stringify(user));
+                    localStorage.setItem('currentUser', JSON.stringify(user.data));
                 }
             });
     }

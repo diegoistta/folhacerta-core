@@ -10,6 +10,9 @@ import { AppComponent } from './app.component';
 import { AuthenticationService } from './_services/index';
 import { AuthComponent } from './auth/auth.component';
 import { HomeComponent } from './home/home.component';
+import { AsideNavComponent } from './aside-nav/aside-nav.component';
+import { HeaderNavComponent } from './header-nav/header-nav.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -17,7 +20,10 @@ import { HomeComponent } from './home/home.component';
   declarations: [
     AppComponent,
     AuthComponent,
-    HomeComponent
+    HomeComponent,
+    AsideNavComponent,
+    HeaderNavComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

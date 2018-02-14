@@ -1,15 +1,20 @@
 using AutoMapper;
-using FolhaCerta.Business.Dto;
+using FolhaCerta.Model.Dto;
 using FolhaCerta.Model.Domain;
 
 namespace FolhaCerta.Business.Mapping
 {
     public class MappingProfile : Profile
-{
-  public MappingProfile()
-  {
-      CreateMap<Usuario, UsuarioDto>();
-      CreateMap<UsuarioDto, Usuario>();
-  }
-}
+    {
+        public MappingProfile()
+        {
+            // Entity => DTO
+
+            CreateMap<Usuario, UsuarioDto>();
+
+            // DTO => Entity
+
+            CreateMap<UsuarioDto, Usuario>();
+        }
+    }
 }

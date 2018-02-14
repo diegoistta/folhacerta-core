@@ -14,54 +14,71 @@
 /Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Model.pdb
 /Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.dll
 /Users/diegofernandes/Documents/Projects/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Business.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\DataAccess.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\DataAccess.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Business.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Business.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\DataAccess.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\DataAccess.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Business.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\bin\Debug\netcoreapp2.0\Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\Business.dll
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\DataAccess.dll
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\Model.dll
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\DataAccess.pdb
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\Business.pdb
-c:\Projetos\folhacerta-core\server\WebApi\bin\Debug\netcoreapp2.0\Model.pdb
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
-c:\Projetos\folhacerta-core\server\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/DataAccess.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/DataAccess.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.csprojResolveAssemblyReference.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/DataAccess.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/DataAccess.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Business.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/bin/Debug/netcoreapp2.0/Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.csprojResolveAssemblyReference.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Business.dll
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/DataAccess.dll
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Model.dll
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/DataAccess.pdb
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Business.pdb
+c:/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Model.pdb
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.csprojResolveAssemblyReference.cache
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+c:/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.csprojResolveAssemblyReference.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Business.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/DataAccess.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Model.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/DataAccess.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Business.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/WebApi/bin/Debug/netcoreapp2.0/Model.pdb

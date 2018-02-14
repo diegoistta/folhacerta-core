@@ -14,12 +14,18 @@ export class AuthComponent implements OnInit {
   model: any = {};
   loading = false;
   returnUrl: string;
+  showForget: boolean;
+  showLogin: boolean;
 
   constructor( private route: ActivatedRoute,
     private router: Router,
-    private authenticationService: AuthenticationService) { }
+    private authenticationService: AuthenticationService) {
+        this.showForget = false;
+        this.showLogin = true;
+     }
 
   ngOnInit() {
+
     // reset login status
     this.authenticationService.logout();
 
@@ -39,5 +45,10 @@ export class AuthComponent implements OnInit {
                 this.loading = false;
             });
 }
+
+  ShowForget(show: boolean) {
+    this.showForget = show;
+    this.showLogin = !show;
+  }
 
 }

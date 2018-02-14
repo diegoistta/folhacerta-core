@@ -1,24 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
+using FluentValidation.AspNetCore;
+using FolhaCerta.Business.Service;
+using FolhaCerta.Business.Service.Interfaces;
+using FolhaCerta.DataAccess.Context;
+using FolhaCerta.WebApi.Helpers;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using FolhaCerta.DataAccess;
-using Microsoft.EntityFrameworkCore;
-using AutoMapper;
-using FolhaCerta.Business.Service;
-using FolhaCerta.Business.ServiceContract;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using System.Text;
-using FolhaCerta.WebApi.Helpers;
 using Microsoft.IdentityModel.Tokens;
-using FluentValidation;
-using FluentValidation.AspNetCore;
 
 namespace WebApi
 {
@@ -39,7 +38,7 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddCors();
+             services.AddCors();
             services.AddDbContext<ApplicationContext>(option =>
                 option.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
                  x => x.MigrationsAssembly("DataAccess"))
@@ -69,7 +68,7 @@ namespace WebApi
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+       public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();

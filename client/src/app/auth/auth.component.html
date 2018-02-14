@@ -4,13 +4,13 @@
   <div class="row bs-reset">
       <div class="col-md-6 bs-reset mt-login-5-bsfix">
           <div class="login-bg" style="background-image:url(../assets/pages/img/login/bg1.jpg)">
-              <img class="login-logo" src="../assets/pages/img/login/logo.png" /> </div>
+              <img class="login-logo" src="http://new.folhacerta.com/wp-content/uploads/2017/05/logo-esc2.png" height="70" width="210" /> </div>
       </div>
       <div class="col-md-6 login-container bs-reset mt-login-5-bsfix">
           <div class="login-content">
-              <h1>FolhaCerta Admin Login</h1>
+              <h1>Login</h1>
               <p> Faça o o login com seu E-mail/Funcional e Senha. </p>
-              <form name="form" (ngSubmit)="login()" #f="ngForm" novalidate class="login-form" action="" >
+              <form name="form" *ngIf="showLogin" (ngSubmit)="login()" #f="ngForm" novalidate class="login-form" action="" >
                   <div class="alert alert-danger display-hide">
                       <button class="close" data-close="alert"></button>
                       <span>Entre com o e-mail e senha. </span>
@@ -32,21 +32,21 @@
                       </div>
                       <div class="col-sm-8 text-right">
                           <div class="forgot-password">
-                              <a href="javascript:;" id="forget-password" class="forget-password">Esqueceu a senha?</a>
+                              <a href="javascript:;" id="forget-password" (click)="ShowForget(true)"  class="forget-password">Esqueceu a senha?</a>
                           </div>
-                          <button [disabled]="loading" class="btn green">Entrar</button>
+                          <button [disabled]="loading" class="btn blue">Entrar</button>
                       </div>
                   </div>
               </form>
               <!-- BEGIN FORGOT PASSWORD FORM -->
-              <form class="forget-form" action="">
-                  <h3 class="font-green">Esqueceu a senha?</h3>
+              <form class="forget-form" action="" *ngIf="showForget" >
+                  <h3 class="font-blue">Esqueceu a senha?</h3>
                   <p> Entre seu e-mail abaixo para criar uma nova senha. </p>
                   <div class="form-group">
                       <input class="form-control placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" name="email" /> </div>
                   <div class="form-actions">
-                      <button type="button" id="back-btn" class="btn green btn-outline">Voltar</button>
-                      <button type="submit" class="btn btn-success uppercase pull-right">Enviar</button>
+                      <button type="button" (click)="ShowForget(false)" id="back-btn" class="btn blue btn-outline">Voltar</button>
+                      <button type="submit" class="btn blue btn-success uppercase pull-right">Enviar</button>
                   </div>
               </form>
               <!-- END FORGOT PASSWORD FORM -->
@@ -56,18 +56,13 @@
                   <div class="col-xs-5 bs-reset">
                       <ul class="login-social">
                           <li>
-                              <a href="javascript:;">
+                              <a href="https://www.facebook.com/folhacerta/">
                                   <i class="icon-social-facebook"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="javascript:;">
+                              <a href="https://twitter.com/FolhaCerta">
                                   <i class="icon-social-twitter"></i>
-                              </a>
-                          </li>
-                          <li>
-                              <a href="javascript:;">
-                                  <i class="icon-social-dribbble"></i>
                               </a>
                           </li>
                       </ul>
@@ -83,13 +78,3 @@
   </div>
 </div>
 </div>
-
-<script>
-  $(document).ready(function()
-  {
-      $('#clickmewow').click(function()
-      {
-          $('#radio1003').attr('checked', 'checked');
-      });
-  })
-</script>

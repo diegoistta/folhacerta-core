@@ -6,30 +6,39 @@
 /Users/diegofernandes/Documents/Projects/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
 /Users/diegofernandes/Documents/Projects/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.dll
 /Users/diegofernandes/Documents/Projects/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.deps.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.csprojResolveAssemblyReference.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.deps.json
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\bin\Debug\netstandard2.0\Model.pdb
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.csprojResolveAssemblyReference.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.dll
-C:\Users\Diego Fernandes\Desktop\FolhaCerta.Core\FolhaCerta\Model\obj\Debug\netstandard2.0\Model.pdb
-c:\Projetos\folhacerta-core\server\Model\bin\Debug\netstandard2.0\Model.deps.json
-c:\Projetos\folhacerta-core\server\Model\bin\Debug\netstandard2.0\Model.dll
-c:\Projetos\folhacerta-core\server\Model\bin\Debug\netstandard2.0\Model.pdb
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.csprojResolveAssemblyReference.cache
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.dll
-c:\Projetos\folhacerta-core\server\Model\obj\Debug\netstandard2.0\Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.deps.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.csprojResolveAssemblyReference.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.deps.json
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/bin/Debug/netstandard2.0/Model.pdb
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.csprojResolveAssemblyReference.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.dll
+C:/Users/Diego Fernandes/Desktop/FolhaCerta.Core/FolhaCerta/Model/obj/Debug/netstandard2.0/Model.pdb
+c:/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.deps.json
+c:/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.dll
+c:/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.pdb
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.csprojResolveAssemblyReference.cache
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.dll
+c:/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.deps.json
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/bin/Debug/netstandard2.0/Model.pdb
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.csprojResolveAssemblyReference.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.dll
+/Users/diegofernandes/Documents/Projetos/folhacerta-core/server/Model/obj/Debug/netstandard2.0/Model.pdb

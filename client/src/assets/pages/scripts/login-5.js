@@ -45,16 +45,12 @@ var Login = function() {
                 error.insertAfter(element.closest('.input-icon'));
             },
 
-            // submitHandler: function(form) {
-            //     form.submit(); // form validation success, call ajax form submit
-            // }
         });
 
         $('.login-form input').keypress(function(e) {
             if (e.which == 13) {
                 if ($('.login-form').validate().form()) {
                     $('button[class="btn green"]').click();
-                   // $('.login-form').submit(); //form validation success, call ajax form submit
                 }
                 return false;
             }
@@ -68,20 +64,8 @@ var Login = function() {
                 return false;
             }
         });
-
-        $('#forget-password').click(function(){
-            $('.login-form').hide();
-            $('.forget-form').show();
-        });
-
-        $('#back-btn').click(function(){
-            $('.login-form').show();
-            $('.forget-form').hide();
-        });
+       
     }
-
- 
-  
 
     return {
         //main function to initiate the module
@@ -92,15 +76,15 @@ var Login = function() {
             // init background slide images
             $('.login-bg').backstretch([
                 "../assets/pages/img/login/bg1.jpg",
-                "../assets/pages/img/login/bg2.jpg",
-                "../assets/pages/img/login/bg3.jpg"
+                //"../assets/pages/img/login/bg6.jpg",
+                //"../assets/pages/img/login/bg4.jpg"
                 ], {
                   fade: 1000,
                   duration: 8000
                 }
             );
 
-            $('.forget-form').hide();
+          //  $('.forget-form').hide();
 
         }
 

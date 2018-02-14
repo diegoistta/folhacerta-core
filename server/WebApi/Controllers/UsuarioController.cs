@@ -1,44 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using FolhaCerta.Business.Dto;
-using AutoMapper;
-using FolhaCerta.Business.ServiceContract;
-using Microsoft.AspNetCore.Authorization;
 using System.IdentityModel.Tokens.Jwt;
-using System.Text;
-using Microsoft.IdentityModel.Tokens;
+using System.Linq;
 using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
+using FolhaCerta.Business.Service.Interfaces;
+using FolhaCerta.Model.Dto;
 using FolhaCerta.WebApi.Helpers;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using System.Net.Http;
-using System.Net;
+using Microsoft.IdentityModel.Tokens;
 
-
-
-
-namespace FolhaCerta.WebApi.Controllers
-{   
-    [Authorize]
-    [Route("[controller]")]
+namespace WebApi.Controllers
+{
+    [Route("api")]
     public class UsuarioController : Controller
     {
          private readonly IUsuarioService usuarioService;
          private readonly AppSettings appSettings;
-       
-        public UsuarioController(IUsuarioService usuarioService, IOptions<AppSettings> appSettings)
+
+       public UsuarioController(IUsuarioService usuarioService, IOptions<AppSettings> appSettings)
         {
             this.usuarioService = usuarioService;
             this.appSettings = appSettings.Value;
         }
 
         [AllowAnonymous]
-        [HttpPost("autenticacao")]
-        public IActionResult Login([FromBody]UsuarioDto usuarioDto)
+        [HttpPost("login")]
+        public IActionResult login([FromBody]UsuarioDto usuario)
         {
-             var service = usuarioService.Authenticate(usuarioDto);
+             var service = usuarioService.Autenticar(usuario);
              
             if (service.Error)
             {
@@ -56,50 +49,30 @@ namespace FolhaCerta.WebApi.Controllers
                 Expires = DateTime.UtcNow.AddMinutes(20),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
+
             var token = tokenHandler.CreateToken(tokenDescriptor);
             var tokenString = tokenHandler.WriteToken(token);
-
-
-            var data = new {
-                Id = service.Data.Id,
-                Login = service.Data.Login,
-                Nome = service.Data.Nome,
-                Sobrenome = service.Data.Sobrenome,
-                Token = tokenString
-            };
-
-           
-            return Ok(data);
+             
+            service.Data.Token = tokenString;
+            return Ok(service);
         }
 
-        [HttpGet]
-        public IActionResult GetAll()
-        {
-            var usuarios =  this.usuarioService.GetAll();
-            return Ok(usuarios);
-        }
-
-        [AllowAnonymous]
-        [HttpPost]
+        [HttpPost("salvar-usuario")]
         public IActionResult Registro([FromBody]UsuarioDto usuarioDto)
         {
             try 
             {
                 // save 
-              var service = usuarioService.Create(usuarioDto);
+              var data = usuarioService.Salvar(usuarioDto);
 
-                if (service.Error)
-                {
-                    return BadRequest(service);
-                }
-
-                return Ok(service);
+                return Ok();
             } 
             catch(AppException ex)
             {
                 // return error message if there was an exception
                 return BadRequest(ex.Message);
-            } 
+            }
         }
+
     }
 }

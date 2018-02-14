@@ -2,13 +2,24 @@ namespace FolhaCerta.Model.Enumerators
 {
     public static class Enums
     {
-        public enum PasswordRules
+         public enum StatusUsuario
         {
-            LowerCase = 1,
-            UpperCase = 2,
-            NumericCharacter = 3,
-            SpecialCharacter = 4,
-            MinCharacters = 5
+
+        }
+
+        public enum OrigemDefinicoes
+        {
+
+        }
+
+        public enum Dashboard
+        {
+
+        }
+
+        public enum Regime
+        {
+
         }
     }
 }
